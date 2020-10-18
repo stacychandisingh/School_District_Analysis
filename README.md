@@ -44,6 +44,7 @@ The following image shows how the percentages for passing Math, passing Reading 
 
 ## Summary 
 **Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.**
+
 Four major changes:
 1. Percentage passing Math increased for Thomas High School.
 2. Percentage passing Reading increased for Thomas High School.

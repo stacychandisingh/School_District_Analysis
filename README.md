@@ -2,7 +2,7 @@
 Python_Anaconda_Jupyter_Notebooks 
 # Overview of the school district analysis: Explain the purpose of this analysis.
 
-The purpose of this analysis is to analyze standardized test score data and school funding from a selection of schools to guage school performance.
+The purpose of this analysis is to analyze standardized test score data and school funding from a selection of schools to gauge school performance.
 
 ## Results
 
